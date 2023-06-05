@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Titanic",
+    "genre": "Drama",
+    "rate": 9
+  },
+  {
+    "title": "The Godfather ",
+    "genre": "Drama",
+    "rate": 8.5
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "rate": 8
+  },
+  {
+    "title": "Schindler's List ",
+    "genre": "Drama",
+    "rate": 10
+  },
+  {
+    "title": "Pulp Fiction",
+    "genre": "Crime",
+    "rate": 9.5
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "genre": "Adventure",
+    "rate": 9
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "rate": 10
+  },
+  {
+    "title": "Fight Club",
+    "genre": "Drama",
+    "rate": 6.5
+  },
+  {
+    "title": "The Matrix",
+    "genre": "Science fiction",
+    "rate": 7.5
+  },
+  {
+    "title": "Saving Private Ryan",
+    "genre": "Drama",
+    "rate": 9.5
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Adventure",
+    "rate": 7.5
+  },
+  {
+    "title": "Life Is Beautiful",
+    "genre": "Drama",
+    "rate": 8.5
+  },
+  {
+    "title": "Back to the Future",
+    "genre": "Science fiction",
+    "rate": 9
+  },
+  {
+    "title": "Leon",
+    "genre": "Action",
+    "rate": 7.5
+  },
+  {
+    "title": "The Lion King",
+    "genre": "Animation",
+    "rate": 10
+  },
+  {
+    "title": "Modern Times",
+    "genre": "Comedy",
+    "rate": 10
+  },
+  {
+    "title": "Django Unchained",
+    "genre": "Drama",
+    "rate": 9
+  },
+  {
+    "title": "WALL·E",
+    "genre": "Animation",
+    "rate": 8.5
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genre": "Animation",
+    "rate": 7.5
+  },
+  {
+    "title": "Coco",
+    "genre": "Animation",
+    "rate": 9
+  },
+  {
+    "title": "Toy Story",
+    "genre": "Animation",
+    "rate": 8
+  },
+  {
+    "title": "Gladiator",
+    "genre": "Action",
+    "rate": 7.5
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genre": "Action",
+    "rate": 8.5
+  },
+  {
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "genre": "Adventure",
+    "rate": 7.5
+  },
+  {
+    "title": "Some Like It Hot",
+    "genre": "Comedy",
+    "rate": 8.5
+  }
+]
